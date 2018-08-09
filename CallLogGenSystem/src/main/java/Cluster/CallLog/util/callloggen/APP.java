@@ -12,24 +12,24 @@ public class APP
 
     static
     {
-        callers.put("15810092493", "史玉龙");
-        callers.put("18000696806", "赵贺彪");
-        callers.put("15151889601", "张倩");
-        callers.put("13269361119", "王世昌");
-        callers.put("15032293356", "张涛");
-        callers.put("17731088562", "张阳");
-        callers.put("15338595369", "李进全");
-        callers.put("15733218050", "杜泽文");
-        callers.put("15614201525", "任宗阳");
-        callers.put("15778423030", "梁鹏");
-        callers.put("18641241020", "郭美彤");
-        callers.put("15732648446", "刘飞飞");
-        callers.put("13341109505", "段光星");
-        callers.put("13560190665", "唐会华");
-        callers.put("18301589432", "杨力谋");
-        callers.put("13520404983", "温海英");
-        callers.put("18332562075", "朱尚宽");
-        callers.put("18620192711", "刘能宗");
+        callers.put("15812234243", "张三");
+        callers.put("17657696806", "李四");
+        callers.put("13434455601", "高一");
+        callers.put("13234561119", "波斯");
+        callers.put("15324227756", "高二");
+        callers.put("17737887562", "高三");
+        callers.put("15313459869", "高四");
+        callers.put("13453218050", "大一");
+        callers.put("19123445625", "大二");
+        callers.put("13454678860", "大三");
+        callers.put("11235251020", "大四");
+        callers.put("15657648446", "研一");
+        callers.put("13567678505", "研二");
+        callers.put("13337652365", "研三");
+        callers.put("15678897432", "博一");
+        callers.put("18798904983", "波尔");
+        callers.put("18468389795", "播散");
+        callers.put("10975645554", "王五");
         phoneNumbers.addAll(callers.keySet());
     }
 
